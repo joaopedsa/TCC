@@ -1,3 +1,5 @@
+[< Voltar](/README.md)
+
 # Preparação dos Dados
   Foi utilizado como padrão para as anotações(labeling) e organização de pastas o Roboflow(https://roboflow.com/). É necessário a utilização do Google Drive ou seja seu dataset PRECISA estar dentro dele.
 
