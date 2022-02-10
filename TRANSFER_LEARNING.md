@@ -9,5 +9,7 @@ Modelos maiores como YOLOv5x e YOLOv5x6 produzirão melhores resultados em quase
 ## Configurações de treinamento
 
 Epochs: Se o overfitting não ocorrer após 200 épocas, treine por mais tempo.
+
 ImageSize: conjuntos de dados personalizados serão beneficiados treinamento em resolução nativa ou superior. Os melhores resultados de inferência são obtidos no mesmo tamanho em que o treinamento foi executado, ou seja, se você treinar com tamanho 1280, você também deve testar e detectar com 1280.
+
 Batch: Use o maior batch permitido pelo seu hardware. Tamanhos de batchs pequenos produzem estatísticas ruins e devem ser evitados.
